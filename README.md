@@ -1,5 +1,4 @@
 ### Hi there 👋, I am Habib Ur Rehman!
-- 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on React.js, Node.js, Next.js, Jest
 <!--
 **Hbrehman/hbrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
